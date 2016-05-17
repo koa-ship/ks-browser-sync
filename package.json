@@ -1,0 +1,28 @@
+{
+  "name": "ks-browser-sync",
+  "version": "0.0.1",
+  "description": ".",
+  "keywords": [
+    "koa-ship",
+    "middleware",
+    "browser-sync"
+  ],
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {},
+  "engines": {
+    "node": ">= 4"
+  },
+  "homepage": "https://github.com/koa-ship/ks-browser-sync",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koa-ship/ks-browser-sync.git"
+  },
+  "bugs": {
+    "url": "https://github.com/koa-ship/ks-browser-sync/issues"
+  },
+  "license": "MIT"
+}
